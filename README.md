@@ -1,6 +1,6 @@
 # Build Image Following Command:
 ```
-docker build -t <docker_name_image>
+docker build . -t <docker_name_image>
 ```
 # Run Image Following Command: 
 ```
